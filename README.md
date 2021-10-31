@@ -1,0 +1,1 @@
+# vite-quick-alternative-for-create-react-app
